@@ -1,4 +1,4 @@
-# Java Study Material
+# Java Study Materials
 Ez a repository különböző Java tananyagokat és példaprojekteket tartalmaz, amelyek segítenek a Java programozás elsajátításában és gyakorlásában.
 
 ## Használat
