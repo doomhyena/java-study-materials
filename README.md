@@ -6,7 +6,7 @@ Ez a repository különböző Java tananyagokat és példaprojekteket tartalmaz,
    ```bash
    git clone https://github.com/doomhyena/java-study-material.git
    ```
-2. **Projekt megnyitása egy IDE-ben** (pl. IntelliJ IDEA, Eclipse)
+2. **Projekt megnyitása egy IDE-ben** (pl. IntelliJ IDEA, Eclipse, VS Code)
 3. **Futtatás és gyakorlás** az egyes példaprogramokkal
 
 ## Követelmények
