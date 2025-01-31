@@ -13,8 +13,5 @@ Ez a repository különböző Java tananyagokat és példaprojekteket tartalmaz,
 - Java Development Kit (JDK 17+)
 - Egy fejlesztői környezet (pl. IntelliJ IDEA, Eclipse, VS Code)
 
-## Hozzájárulás
-Szívesen fogadunk javaslatokat és kiegészítéseket! Forkold a repository-t, készíts módosításokat, majd küldj egy pull requestet.
-
 ## Licenc
 MIT licenc alatt elérhető.
